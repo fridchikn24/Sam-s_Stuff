@@ -1,0 +1,24 @@
+c:\Users\sameeullah\documents\Projectos\main\Championes\obj\Debug\Championes.csprojResolveAssemblyReference.cache
+c:\Users\sameeullah\documents\Projectos\main\Championes\bin\Debug\Championes.exe.config
+c:\Users\sameeullah\documents\Projectos\main\Championes\bin\Debug\Championes.exe
+c:\Users\sameeullah\documents\Projectos\main\Championes\bin\Debug\Championes.pdb
+c:\Users\sameeullah\documents\Projectos\main\Championes\bin\Debug\main.exe
+c:\Users\sameeullah\documents\Projectos\main\Championes\bin\Debug\main.pdb
+c:\Users\sameeullah\documents\Projectos\main\Championes\obj\Debug\Championes.exe
+c:\Users\sameeullah\documents\Projectos\main\Championes\obj\Debug\Championes.pdb
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\Championes\bin\Debug\Championes.exe.config
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\Championes\bin\Debug\Championes.exe
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\Championes\bin\Debug\Championes.pdb
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\Championes\bin\Debug\main.exe
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\Championes\bin\Debug\main.pdb
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\Championes\obj\Debug\Championes.csprojResolveAssemblyReference.cache
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\Championes\obj\Debug\Championes.exe
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\Championes\obj\Debug\Championes.pdb
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\ROH Project\Championes\bin\Debug\Championes.exe.config
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\ROH Project\Championes\bin\Debug\Championes.exe
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\ROH Project\Championes\bin\Debug\Championes.pdb
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\ROH Project\Championes\bin\Debug\main.exe
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\ROH Project\Championes\bin\Debug\main.pdb
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\ROH Project\Championes\obj\Debug\Championes.csprojResolveAssemblyReference.cache
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\ROH Project\Championes\obj\Debug\Championes.exe
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\ROH Project\Championes\obj\Debug\Championes.pdb

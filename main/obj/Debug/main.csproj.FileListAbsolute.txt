@@ -1,0 +1,18 @@
+c:\users\sameeullah\documents\Projectos\main\main\bin\Debug\main.exe.config
+c:\users\sameeullah\documents\Projectos\main\main\bin\Debug\main.exe
+c:\users\sameeullah\documents\Projectos\main\main\bin\Debug\main.pdb
+c:\users\sameeullah\documents\Projectos\main\main\obj\Debug\main.csprojResolveAssemblyReference.cache
+c:\users\sameeullah\documents\Projectos\main\main\obj\Debug\main.exe
+c:\users\sameeullah\documents\Projectos\main\main\obj\Debug\main.pdb
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\main\bin\Debug\main.exe.config
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\main\obj\Debug\main.exe
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\main\obj\Debug\main.pdb
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\main\obj\Debug\main.csprojResolveAssemblyReference.cache
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\main\bin\Debug\main.exe
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\main\bin\Debug\main.pdb
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\ROH Project\main\bin\Debug\main.exe.config
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\ROH Project\main\obj\Debug\main.exe
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\ROH Project\main\obj\Debug\main.pdb
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\ROH Project\main\bin\Debug\main.exe
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\ROH Project\main\bin\Debug\main.pdb
+C:\Users\Sameeullah\Documents\Sam-S_Stuff\ROH\ROH Project\main\obj\Debug\main.csprojResolveAssemblyReference.cache
